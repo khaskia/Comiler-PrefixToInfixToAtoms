@@ -1,0 +1,9 @@
+F:\cs50\work\fci\AttributeGrammer\AttributeGrammer\bin\Debug\AttributeGrammer.exe.config
+F:\cs50\work\fci\AttributeGrammer\AttributeGrammer\obj\Debug\AttributeGrammer.csprojResolveAssemblyReference.cache
+F:\cs50\work\fci\AttributeGrammer\AttributeGrammer\obj\Debug\AttributeGrammer.Properties.Resources.resources
+F:\cs50\work\fci\AttributeGrammer\AttributeGrammer\obj\Debug\AttributeGrammer.csproj.GenerateResource.Cache
+F:\cs50\work\fci\AttributeGrammer\AttributeGrammer\bin\Debug\AttributeGrammer.exe
+F:\cs50\work\fci\AttributeGrammer\AttributeGrammer\bin\Debug\AttributeGrammer.pdb
+F:\cs50\work\fci\AttributeGrammer\AttributeGrammer\obj\Debug\AttributeGrammer.exe
+F:\cs50\work\fci\AttributeGrammer\AttributeGrammer\obj\Debug\AttributeGrammer.pdb
+F:\cs50\work\fci\AttributeGrammer\AttributeGrammer\obj\Debug\AttributeGrammer.MainForm.resources
